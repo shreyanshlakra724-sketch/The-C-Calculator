@@ -10,7 +10,7 @@ int main(void){
         printf("Enter any two numbers:");
         scanf("%lf %lf", &x, &y);
 
-        printf("Choose your operation: +, -, *, /, %%,power(^),sqrt(s),log(l) ");
+        printf("Choose your operation: +, -, *, /, %%,power(^),sqrt(s)");
 
         char operation;
 
